@@ -12,6 +12,8 @@ Intitial state: All the boxes is initialize with value 0.
 Action : Queen placed on (i,j) such that ith row and jth column should not have any other queen on board and (i-1,j-1),(i-1,j+1),(i+1,j-1),(i+1,j+1) should not have any queen i.e adjacent diagonal box.
 
 Goal state: There are 92 possible distinct possible solution,some of them would look like same as they would differ in rotation of some of the solution. One of the goal state is ........
+ 
+ 
  1 0 0 0 0 0 0 0
  0 0 0 0 1 0 0 0
  0 0 0 0 0 0 0 1
@@ -20,5 +22,3 @@ Goal state: There are 92 possible distinct possible solution,some of them would 
  0 0 0 0 0 0 1 0
  0 1 0 0 0 0 0 0
  0 0 0 1 0 0 0 0
-
-
