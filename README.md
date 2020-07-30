@@ -15,10 +15,17 @@ Goal state: There are 92 possible distinct possible solution,some of them would 
  
  
  1 0 0 0 0 0 0 0
+ 
  0 0 0 0 1 0 0 0
+ 
  0 0 0 0 0 0 0 1
+ 
  0 0 0 0 0 1 0 0
+ 
  0 0 1 0 0 0 0 0
+ 
  0 0 0 0 0 0 1 0
+ 
  0 1 0 0 0 0 0 0
+ 
  0 0 0 1 0 0 0 0
